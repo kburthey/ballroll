@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Pick Up
+  - Ramp
+  - Win
+  - Score
   layers:
   - Default
   - TransparentFX
